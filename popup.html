@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CPH Submit</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="header">
+        <h2 style="margin:0;">CPH Submit</h2>
+    </div>
+    
+    <div class="status-container">
+        <div id="status-indicator" class="indicator disconnected"></div>
+        <span id="status-text">Disconnected</span>
+    </div>
+
+    <div class="config-container">
+        <label for="port-input">VS Code Port:</label>
+        <input type="number" id="port-input" value="27121">
+        <button id="save-btn">Save & Reconnect</button>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
