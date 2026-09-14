@@ -13,7 +13,7 @@ A high-performance, low-latency Safari extension designed to seamlessly route co
 
 Because this extension is distributed independently as an open-source build, you will need to enable unsigned extensions in Safari to run it:
 
-1. Download the latest `cph.macOS.zip` file from the [Releases](https://github.com/samraddhsingh20/cph_submit_safari/releases) page.
+1. Download the latest `cph.macOS.zip` file from the [Releases](https://github.com/samraddhsingh20/cph_submit-safari/releases) page.
 2. Unzip the file and move the resulting application into your **Applications** folder.
 3. Open the app once to grant initial macOS permissions.
 4. Open **Safari** and navigate to **Settings > Advanced**.
