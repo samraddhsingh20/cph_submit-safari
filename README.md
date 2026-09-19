@@ -13,7 +13,7 @@ Universal low-latency competitive programming submission helper for Safari. Seam
 Because this extension is open-source and not distributed through the official Mac App Store, macOS Gatekeeper and Safari's native security protocols will block it by default. Follow these exact steps to bypass the restrictions:
 
 **Step 1: Download & Install**
-1. Download the latest `CPH_Submit.zip` file from the **[Releases Page](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)**.
+1. Download the latest `CPH_Submit.zip` file from the **[Releases Page](https://github.com/samraddhsingh20/cph_submit-safari/releases/latest)**.
 2. Double-click the `.zip` file to extract it.
 3. **CRITICAL:** Drag the extracted `CPH_Submit.app` directly into your Mac's **Applications** folder. Safari will not detect the extension if it is left in Downloads.
 
