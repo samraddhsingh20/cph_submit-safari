@@ -1,4 +1,4 @@
-# CPH Submit for Safari (v1.2.5)
+# CPH Submit for Safari (v1.0.0)
 
 Universal low-latency competitive programming submission helper for Safari. Seamlessly bridges your local Competitive Programming Helper (CPH) environment with Codeforces and CSES.
 
